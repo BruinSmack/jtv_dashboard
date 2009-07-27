@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowInternetPlugins</key>
+	<true/>
+	<key>AllowNetworkAccess</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>jtv_dashboard</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.kevin.widget.jtv_dashboard</string>
+	<key>CFBundleName</key>
+	<string>jtv_dashboard</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>0.1</string>
+	<key>CloseBoxInsetX</key>
+	<integer>16</integer>
+	<key>CloseBoxInsetY</key>
+	<integer>16</integer>
+	<key>Height</key>
+	<integer>525</integer>
+	<key>MainHTML</key>
+	<string>main.html</string>
+	<key>Width</key>
+	<integer>950</integer>
+</dict>
+</plist>
